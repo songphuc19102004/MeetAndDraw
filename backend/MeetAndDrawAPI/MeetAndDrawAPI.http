@@ -1,6 +1,0 @@
-@MeetAndDrawAPI_HostAddress = http://localhost:5100
-
-GET {{MeetAndDrawAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
