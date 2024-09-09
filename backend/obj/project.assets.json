@@ -516,32 +516,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Phuc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code learning\\MeetAndDraw\\backend\\backend.csproj",
+      "projectUniqueName": "/home/songphuc1910/CodingProjects/MeetAndDraw/backend/backend.csproj",
       "projectName": "backend",
-      "projectPath": "D:\\code learning\\MeetAndDraw\\backend\\backend.csproj",
-      "packagesPath": "C:\\Users\\Phuc\\.nuget\\packages\\",
-      "outputPath": "D:\\code learning\\MeetAndDraw\\backend\\obj\\",
+      "projectPath": "/home/songphuc1910/CodingProjects/MeetAndDraw/backend/backend.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/songphuc1910/CodingProjects/MeetAndDraw/backend/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Phuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -554,11 +546,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -593,7 +580,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
